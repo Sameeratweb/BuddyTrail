@@ -524,6 +524,7 @@ body.dark-mode {
   gap: 20px;
   color: #003366;
   justify-content: center;
+  margin-top: 20px;
 }
 
 .itinerary {
